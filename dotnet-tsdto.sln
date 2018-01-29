@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entith.DotNet.TSDto", "Entith.DotNet.TSDto\Entith.DotNet.TSDto.csproj", "{C6B8E64D-0E27-470E-BB13-B705177C14E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entith.DotNet.TSDto.Tool", "Entith.DotNet.TSDto.Tool\Entith.DotNet.TSDto.Tool.csproj", "{ECE787EB-4523-4716-A6BB-A45C66B7F72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B8E64D-0E27-470E-BB13-B705177C14E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B8E64D-0E27-470E-BB13-B705177C14E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B8E64D-0E27-470E-BB13-B705177C14E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B8E64D-0E27-470E-BB13-B705177C14E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE787EB-4523-4716-A6BB-A45C66B7F72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE787EB-4523-4716-A6BB-A45C66B7F72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE787EB-4523-4716-A6BB-A45C66B7F72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE787EB-4523-4716-A6BB-A45C66B7F72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050777C8-58F4-4B3F-B82E-87ED1261D282}
+	EndGlobalSection
+EndGlobal
